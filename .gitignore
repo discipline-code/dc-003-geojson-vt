@@ -1,0 +1,5 @@
+node_modules/
+shapefiles/
+dist/
+.directory
+uso.json
